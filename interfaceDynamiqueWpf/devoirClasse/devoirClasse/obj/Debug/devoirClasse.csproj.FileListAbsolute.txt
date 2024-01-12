@@ -1,0 +1,15 @@
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\bin\Debug\devoirClasse.exe.config
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\bin\Debug\devoirClasse.exe
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\bin\Debug\devoirClasse.pdb
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\devoirClasse.csproj.AssemblyReference.cache
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\MainWindow.g.cs
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\App.g.cs
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\devoirClasse_MarkupCompile.cache
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\devoirClasse_MarkupCompile.lref
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\MainWindow.baml
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\devoirClasse.g.resources
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\devoirClasse.Properties.Resources.resources
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\devoirClasse.csproj.GenerateResource.cache
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\devoirClasse.csproj.CoreCompileInputs.cache
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\devoirClasse.exe
+H:\interfaceDynamiqueWpf\devoirClasse\devoirClasse\obj\Debug\devoirClasse.pdb
